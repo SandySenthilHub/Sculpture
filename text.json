@@ -1,0 +1,20 @@
+[
+    {
+        "image": "one.jpeg",
+        "Title": "Something",
+        "Price": "Rs.23.00",
+        "quotes": "sculpture",
+        "Delivary": "Ships in 7-10 days",
+        "Ratings": "4.9"
+        
+    },
+    {
+        "image": "two.jpeg",
+        "Title": "Something",
+        "Price": "Rs.23.00",
+        "quotes": "sculpture",
+        "Delivary": "Ships in 7-10 days",
+        "Ratings": "4.9"
+    }
+   
+]
